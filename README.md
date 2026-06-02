@@ -2,58 +2,34 @@
 
 ## Artificial Intelligence & Machine Learning Portfolio
 
-This repository serves as an index of my AI/ML learning journey, projects, and coursework completed through the University of Texas AIML Program.
+Welcome to my AI/ML learning portfolio. Below is a collection of repositories documenting my journey through machine learning, deep learning, computer vision, and natural language processing.
 
 ---
 
 ## Foundation
 
-* Introduction to Python
-* Probability & Statistics
-* Applied Statistics
+* [AIML Python](https://github.com/chirag-vyas1/01_AIML_Python_introduction)
+* [AIML Probability Distribution](https://github.com/chirag-vyas1/02_AIML_Probability_Distribution)
+* [AIML Applied Statistics](https://github.com/chirag-vyas1/03_AIML_Applied_Statistics)
 
 ---
 
 ## Supervised Learning
 
-* Linear Regression
-* Logistic Regression
-* K-Nearest Neighbors (KNN)
-* Naive Bayes
-* Support Vector Machines (SVM)
-* Ensemble Techniques
+* [AIML Linear Regression](https://github.com/chirag-vyas1/04_AIML_SL_Linear_Regression)
+* [AIML Logistic Regression](https://github.com/chirag-vyas1/05_AIML_SL_Logistic_Regression)
+* [AIML KNN](https://github.com/chirag-vyas1/06_AIML_SL_KNN)
+* [AIML Naive Bayes](https://github.com/chirag-vyas1/07_AIML_SL_Naive_Bayes)
+* [AIML SVM](https://github.com/chirag-vyas1/08_AIML_SL_SVM)
+* [AIML Ensemble Techniques](https://github.com/chirag-vyas1/09_AIML_Ensemble_Technique)
 
 ---
 
-## Unsupervised Learning
+## Deep Learning & Advanced AI
 
-* K-Means Clustering
-* Hierarchical Clustering
-* Principal Component Analysis (PCA)
-
----
-
-## Advanced Machine Learning
-
-* Feature Engineering & Model Tuning
-* SQL for Data Analysis
-
----
-
-## Deep Learning
-
-* Deep Learning Neural Networks
-* Computer Vision
-* Natural Language Processing (NLP)
-
----
-
-## Major Projects
-
-* AIML Capstone Project
-* Computer Vision Applications
-* NLP Applications
-* Deep Learning Projects
+* [AIML Deep Learning Neural Network](https://github.com/chirag-vyas1/15_AIML_DLNN_Deep_Learning_Neural_Network)
+* [AIML Computer Vision](https://github.com/chirag-vyas1/16_AIML_Computer_Vision)
+* [AIML Natural Language Processing](https://github.com/chirag-vyas1/17_AIML_Natural_Language_Processing)
 
 ---
 
@@ -66,46 +42,34 @@ This repository serves as an index of my AI/ML learning journey, projects, and c
 
 **Machine Learning**
 
-* Scikit-learn
 * Regression
 * Classification
 * Clustering
+* Feature Engineering
 * Model Evaluation
 
-**Deep Learning**
-
-* TensorFlow
-* Keras
-* Neural Networks
-
-**Data Analysis & Visualization**
+**Libraries & Frameworks**
 
 * NumPy
 * Pandas
+* Scikit-learn
+* TensorFlow
+* Keras
 * Matplotlib
-* Seaborn
+
+**AI Domains**
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
 
 ---
 
-## GitHub Repositories
+## Current Focus
 
-Add links to each repository here:
-
-* AIML Python
-* AIML Statistics
-* AIML Linear Regression
-* AIML Logistic Regression
-* AIML KNN
-* AIML Naive Bayes
-* AIML SVM
-* AIML Ensemble Techniques
-* AIML Deep Learning
-* AIML Computer Vision
-* AIML NLP
-
----
-
-### Connect With Me
-
-* GitHub: https://github.com/chirag-vyas1
-* LinkedIn: Add your LinkedIn profile link here
+* Generative AI
+* LLM Applications
+* AI-Powered Web Applications
+* Machine Learning Deployment
+* Cloud-Based AI Solutions
