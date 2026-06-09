@@ -8,7 +8,7 @@ Welcome to my AI/ML learning portfolio. Below is a collection of repositories do
 
 ## Foundation
 
-* [AIML Python](https://github.com/chirag-vyas1/01_AIML_Python_introduction)
+* [AIML Python](https://github.com/chirag-vyas1/01_AIML_MDS_Python-_Essentials.git)
 * [AIML Probability Distribution](https://github.com/chirag-vyas1/02_AIML_Probability_Distribution)
 * [AIML Applied Statistics](https://github.com/chirag-vyas1/03_AIML_Applied_Statistics)
 
